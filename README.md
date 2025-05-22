@@ -1,2 +1,2 @@
-# Customer-Categorizer-main
+# Customer-Categorizer 
 Customer-Categorizer 
